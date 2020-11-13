@@ -41,7 +41,7 @@ class Dashboard extends Component {
                                         <i className="fa fa-circle text-danger"></i> Bounce
                                         <i className="fa fa-circle text-warning"></i> Unsubscribe
                                     </div>
-                                    <hr />""
+                                    <hr />
                                     <div className="stats">
                                         <i className="fa fa-clock-o"></i> Campaing sent 2 days ago
                                     </div>
